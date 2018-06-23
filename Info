@@ -1,0 +1,4 @@
+#Language used-> PYTHON
+#Packages used->
+       Interface(Design and Working)->Tkinter,Pyscreenshot,PIL
+       Preprocessing and Prediction ->Pickle, Imageio, Skimage, Scipy, Numpy, Pandas
