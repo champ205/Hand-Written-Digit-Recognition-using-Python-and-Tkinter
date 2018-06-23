@@ -1,4 +1,4 @@
-#Language used-> PYTHON
+#Language used-> PYTHON Version 3
 #Packages used->
        Interface(Design and Working)->Tkinter,Pyscreenshot,PIL
-       Preprocessing and Prediction ->Pickle, Imageio, Skimage, Scipy, Numpy, Pandas
+       Preprocessing and Prediction ->Pickle, Imageio, Skimage, Scipy, Numpy
